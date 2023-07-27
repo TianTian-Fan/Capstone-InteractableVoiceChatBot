@@ -23,5 +23,5 @@ need PyAudio ```pip install pyaudio```
 
 **Important: Put your own OpenAI API key in line 8 of the code**
 
-**Unfortunately, I cannot provide the executable of Python file because the packaged executable does not contain the API key**
+**Unfortunately, I cannot provide the executable of Python file because the packaged executable will not contain the API key**
 

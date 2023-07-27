@@ -15,7 +15,7 @@ Links:
 
 [Whisper](https://github.com/openai/whisper)
 Need [PyTorch](https://pytorch.org/get-started/locally/)
-and ffmpeg ```choco install ffmpeg``` using [Chocolatey] (https://chocolatey.org/)
+and ffmpeg ```choco install ffmpeg``` using [Chocolatey](https://chocolatey.org/)
 
 [SpeechRecognition](https://github.com/Uberi/speech_recognition)
 Need PyAudio ```pip install pyaudio```

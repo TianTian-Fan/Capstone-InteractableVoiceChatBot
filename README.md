@@ -22,4 +22,5 @@ need PyAudio ```pip install pyaudio```
 [Flask](https://flask.palletsprojects.com/en/2.3.x/installation/)
 
 **Important: Put your own OpenAI API key in line 8 of the code**
+**I am sorry that I cannot provide the executable of Python file because the packaged executable does not contain the API key**
 

@@ -15,6 +15,8 @@ Links:
 [Whisper](https://github.com/openai/whisper)
 - [PyTorch](https://pytorch.org/get-started/locally/)
 - ffmpeg ```choco install ffmpeg``` using [Chocolatey] (https://chocolatey.org/) required
+
 [SpeechRecognition](https://github.com/Uberi/speech_recognition)
 - PyAudio ```pip install pyaudio```
+
 [Flask](https://flask.palletsprojects.com/en/2.3.x/installation/)

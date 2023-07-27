@@ -39,12 +39,10 @@ def generate_response(prompt):
 def upload():
     return chat
 
-
 #def speak_text(text):
     engine.setProperty('voice', voices[0].id)
     engine.say(text)
     engine.runAndWait()
-
 
 def main():
     threading.Thread(target=lambda: app.run(use_reloader=False)).start()
@@ -69,8 +67,7 @@ def main():
                         print(f"You said: {text}")
                         response = generate_response(text)
                         print(f"GPT-3 says: {response}")
-                        #speak_text(response)
-                       
+                        #speak_text(response)          
             except Exception as e:
                 print("error: {}".format(e))
                 

@@ -5,7 +5,7 @@ import threading
 from flask import Flask, request
 
 
-openai.api_key = "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"
+openai.api_key = ""
 
 #engine = pyttsx3.init()
 #voices = engine.getProperty('voices')

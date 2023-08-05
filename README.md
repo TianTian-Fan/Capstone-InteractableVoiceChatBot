@@ -32,7 +32,7 @@ need PyAudio ```pip install pyaudio```
 **Important: Put your own OpenAI API key in line 8 of the code**
 
 ### ***Unity Side***
-I cannot directly upload the project into GitHub because some files are too large to push, so I provide a link to download the project:
+Can't directly upload the project into GitHub due to the maximum file limitation, so I provide a link to download the project:
 
 [Project Download](https://drive.google.com/file/d/1uYsbyf87-v0hFqGun_58hJD2LB9w36VB/view?usp=drive_link)
 

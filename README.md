@@ -26,14 +26,14 @@ and [PyTorch](https://pytorch.org/get-started/locally/)
 need PyAudio ```pip install pyaudio```
 - [Flask](https://flask.palletsprojects.com/en/2.3.x/installation/)
 
-**Important: Put your own OpenAI API key in line 8 of the code**
+**Important: Put your own [OpenAI API](https://openai.com/blog/openai-api) key in line 8 of the code**
 
 ### ***Unity Side***
 Can't directly upload the project into GitHub due to the maximum file limit, so I provide a link to download the project:
 
 [Project Download](https://drive.google.com/file/d/1uYsbyf87-v0hFqGun_58hJD2LB9w36VB/view?usp=drive_link)
 
-**Important: Put your own AWS keys(accessKey and secretKey) in line 99 of the script named WebRequest**
+**Important: Put your own [AWS](https://aws.amazon.com/console/) keys(accessKey and secretKey) in line 99 of the script named WebRequest**
 
 **Can't provide the executable of Python file and Unity project because the packaged executable do not contain the API key**
 

@@ -6,7 +6,7 @@
 - **Gary Liu** - Animation - gary.liu@ontariotechu.net
 
 ## ***Project Information***
-### **Python Side**
+### ***Python Side***
 For running the Python file, make sure to install the following libraries:
 ```
 -pip install openai
@@ -31,7 +31,7 @@ need PyAudio ```pip install pyaudio```
 
 **Important: Put your own OpenAI API key in line 8 of the code**
 
-### **Unity Side**
+### ***Unity Side***
 [Project Download](https://drive.google.com/file/d/1uYsbyf87-v0hFqGun_58hJD2LB9w36VB/view?usp=drive_link)
 
 **Unfortunately, I cannot provide the executable of Python file and Unity project because the packaged executable do not contain the API key**

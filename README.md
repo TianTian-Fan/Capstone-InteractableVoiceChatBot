@@ -5,6 +5,7 @@
 - **Hossain Alinqi** - UI Designer <sub>/ Post Effect Designer / Prop Modeler</sub> - hossain.alinaqi@ontariotechu.net
 - **Gary Liu** - Animation - gary.liu@ontariotechu.net
 
+### **Python Side**
 For running the Python file, make sure to install the following libraries:
 ```
 -pip install openai

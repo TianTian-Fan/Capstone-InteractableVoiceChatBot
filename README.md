@@ -1,6 +1,6 @@
 # Ontario Tech University-Capstone-InteractableVoiceChatBot
 
-### **Team 19 Member Information**
+## ***Team Information***
 - **Tiantian Fan** - Programmer <sub>/ Avatar Modeler</sub> - tiantian.fan@ontariotechu.net
 - **Hossain Alinqi** - UI Designer <sub>/ Post Effect Designer / Prop Modeler</sub> - hossain.alinaqi@ontariotechu.net
 - **Gary Liu** - Animation - gary.liu@ontariotechu.net

@@ -33,5 +33,7 @@ Can't directly upload the project into GitHub due to the maximum file limit, so 
 
 [Project Download](https://drive.google.com/file/d/1uYsbyf87-v0hFqGun_58hJD2LB9w36VB/view?usp=drive_link)
 
-**Unfortunately, I cannot provide the executable of Python file and Unity project because the packaged executable do not contain the API key**
+**Important: Put your own AWS keys(accessKey and secretKey) in line 99 of the script named WebRequest**
+
+**Can't provide the executable of Python file and Unity project because the packaged executable do not contain the API key**
 
